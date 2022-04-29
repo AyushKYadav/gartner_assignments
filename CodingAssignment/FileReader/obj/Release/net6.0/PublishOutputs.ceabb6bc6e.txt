@@ -1,0 +1,7 @@
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\FileReader.exe
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\FileReader.dll
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\FileReader.deps.json
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\FileReader.runtimeconfig.json
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\FileReader.pdb
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+D:\FileReaderDemo\FileReader\bin\Release\net6.0\publish\YamlDotNet.dll
